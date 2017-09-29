@@ -8,5 +8,11 @@ Resetuje usluge 'Bufor wydruku' i usuwa niepotrzebne pliki
 - usuniecie plikow ( del /F /Q /S C:\WINDOWS\system32\spool\PRINTERS\* )
 - uruchomienie uslugi Spooler ( net start spooler )
 
+# ip_dhcp.bat
+Ustawia adres IP poprzez DHCP na interfejsie sieciowym
+
+# ip_static.bat
+Ustawia staly adres IP na interfejsie sieciowym
+
 # wifi_info.bat
 Pokazuje wszystkie zapamietane sieci WiFi oraz aktualne polaczenie WiFi
